@@ -25,8 +25,8 @@ To access webpage please follow the link:
 https://quitomusic.github.io/UCF_Horiseon_Website_Challenge_1/
 
 Website Screenshot:
-![Horiseon Webpage Screenshot](UCF_Horiseon_Website_Challenge_1/Develop/assets/images/Screenshot.png)
 
+![Horiseon Webpage Screenshot](./Assets/images/Screenshot.png)
 
 ## Credits
 
@@ -37,12 +37,3 @@ Web refferences:
 3. HTML Semantic Elements: https://www.w3schools.com/html/html5_semantic_elements.asp
 4. Consolidate CSS Class, Id's and Selectors: https://css-tricks.com/multiple-class-id-selectors/
 5. Alternative Attributes: https://www.w3schools.com/tags/att_img_alt.asp#:~:text=The%20required%20alt%20attribute%20specifies,user%20uses%20a%20screen%20reader).
-
-Images:
-
-* ![Brand awareness icon](UCF_Horiseon_Website_Challenge_1/Develop/assets/images/brand-awareness.png)
-* ![Cost Management icon](UCF_Horiseon_Website_Challenge_1/Develop/assets/images/cost-management.png)
-* ![Digital Marketing Meeting](UCF_Horiseon_Website_Challenge_1/Develop/assets/images/digital-marketing-meeting.jpg)
-* ![Lead Generation icon](UCF_Horiseon_Website_Challenge_1/Develop/assets/images/lead-generation.png)
-* ![SEO Computer Wooden Table](UCF_Horiseon_Website_Challenge_1/Develop/assets/images/search-engine-optimization.jpg)
-* ![Social Media Marketing](UCF_Horiseon_Website_Challenge_1/Develop/assets/images/social-media-marketing.jpg)
