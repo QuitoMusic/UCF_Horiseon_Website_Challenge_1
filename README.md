@@ -26,7 +26,7 @@ https://quitomusic.github.io/UCF_Horiseon_Website_Challenge_1/
 
 Website Screenshot:
 
-![Horiseon Webpage Screenshot](./Assets/images/Screenshot.png)
+![Horiseon Webpage Screenshot](./Assets/Screenshot.png)
 
 ## Credits
 
