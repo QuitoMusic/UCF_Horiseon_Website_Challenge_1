@@ -40,9 +40,9 @@ Web refferences:
 
 Images:
 
-![Brand awareness icon](UCF_Horiseon_Website_Challenge_1/Develop/assets/images/brand-awareness.png)
-![Cost Management icon](UCF_Horiseon_Website_Challenge_1/Develop/assets/images/cost-management.png)
-![Digital Marketing Meeting](UCF_Horiseon_Website_Challenge_1/Develop/assets/images/digital-marketing-meeting.jpg)
-![Lead Generation icon](UCF_Horiseon_Website_Challenge_1/Develop/assets/images/lead-generation.png)
-![SEO Computer Wooden Table](UCF_Horiseon_Website_Challenge_1/Develop/assets/images/search-engine-optimization.jpg)
-![Social Media Marketing](UCF_Horiseon_Website_Challenge_1/Develop/assets/images/social-media-marketing.jpg)
+* ![Brand awareness icon](UCF_Horiseon_Website_Challenge_1/Develop/assets/images/brand-awareness.png)
+* ![Cost Management icon](UCF_Horiseon_Website_Challenge_1/Develop/assets/images/cost-management.png)
+* ![Digital Marketing Meeting](UCF_Horiseon_Website_Challenge_1/Develop/assets/images/digital-marketing-meeting.jpg)
+* ![Lead Generation icon](UCF_Horiseon_Website_Challenge_1/Develop/assets/images/lead-generation.png)
+* ![SEO Computer Wooden Table](UCF_Horiseon_Website_Challenge_1/Develop/assets/images/search-engine-optimization.jpg)
+* ![Social Media Marketing](UCF_Horiseon_Website_Challenge_1/Develop/assets/images/social-media-marketing.jpg)
